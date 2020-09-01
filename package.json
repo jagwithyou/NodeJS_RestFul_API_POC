@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_restful_api_poc",
+  "version": "1.0.0",
+  "description": "A simple CRUD operation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagwithyou/NodeJS_RestFul_API_POC.git"
+  },
+  "keywords": [
+    "node",
+    "nodemon"
+  ],
+  "author": "jag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagwithyou/NodeJS_RestFul_API_POC/issues"
+  },
+  "homepage": "https://github.com/jagwithyou/NodeJS_RestFul_API_POC#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
